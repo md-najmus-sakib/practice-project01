@@ -1,0 +1,74 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.big-font {
+    font-size: 63px;
+    color: rgb(89, 87, 87);
+}
+
+.or-co {
+    color: orange;
+}
+
+.sc01-flex {
+    display: flex;
+    margin: 30px;
+}
+
+.sc02-flex {
+    background-image: url(images/shapes/7.png);
+    margin-top: 160px;
+    background-repeat: no-repeat;
+}
+
+.image-size {
+    height: 750px;
+    width: 750px;
+
+}
+
+.image-size02 {
+    height: 556px;
+    width: 360px;
+    padding: 6%;
+    margin-left: 130px;
+}
+
+.div01 {
+    margin-top: 120px;
+    padding: 4%;
+}
+
+.div02 {
+    width: 50%;
+}
+
+.div03 {
+    margin-top: 150px;
+    margin-bottom: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(orange, orangered);
+    padding: 20px 45px;
+    border-radius: 26px;
+}
+
+#imagine-you {
+    font-size: 20px;
+    color: rgb(99, 95, 95);
+}
+
+#lorem {
+    font-size: 18px;
+}
+
+#about-me {
+    font-size: 45px;
+}
