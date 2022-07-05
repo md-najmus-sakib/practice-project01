@@ -14,13 +14,13 @@ body {
 
 .sc01-flex {
     display: flex;
-    margin: 30px;
 }
 
 .sc02-flex {
+    margin-top: 150px;
     background-image: url(images/shapes/7.png);
-    margin-top: 160px;
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .image-size {
@@ -30,9 +30,9 @@ body {
 }
 
 .image-size02 {
-    height: 556px;
+    height: 573px;
     width: 360px;
-    padding: 6%;
+    padding: 7%;
     margin-left: 130px;
 }
 
