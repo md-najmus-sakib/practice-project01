@@ -1,6 +1,8 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 .big-font {
@@ -103,13 +105,13 @@ body {
 }
 
 .div07 {
-    margin: 40px;
+    margin-left: 40px;
     box-shadow: 5px 5px 10px gray;
     border-radius: 25px;
 }
 
 .div08 {
-    margin: 40px;
+    margin-left: 40px;
     box-shadow: 5px 5px 10px gray;
     border-radius: 25px;
 }
